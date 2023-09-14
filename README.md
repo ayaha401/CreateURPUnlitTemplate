@@ -1,0 +1,2 @@
+# CreateURPUnlitTemplate
+Unityで右クリックからURPのUnlitのテンプレートを作れるようになるEditor拡張
